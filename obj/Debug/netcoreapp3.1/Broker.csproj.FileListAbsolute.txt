@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\bin\Debug\netcoreapp3.1\Broker.exe
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\bin\Debug\netcoreapp3.1\Broker.deps.json
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.json
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\bin\Debug\netcoreapp3.1\Broker.dll
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\bin\Debug\netcoreapp3.1\Broker.pdb
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\obj\Debug\netcoreapp3.1\Broker.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\obj\Debug\netcoreapp3.1\Broker.dll
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\obj\Debug\netcoreapp3.1\Broker.pdb
+C:\Users\Usuario\Desktop\ArquiSoft\Broker\obj\Debug\netcoreapp3.1\Broker.genruntimeconfig.cache
